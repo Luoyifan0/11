@@ -1,2 +1,2 @@
 
-# 11kernel methods
+# kernel methods
